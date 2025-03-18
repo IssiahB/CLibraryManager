@@ -1,0 +1,15 @@
+[2025-03-13 23:53:56.755] [database_logger] [info] Database opened successfully.
+[2025-03-13 23:53:56.766] [database_logger] [info] Database tables created successfully.
+[2025-03-13 23:59:37.771] [database_logger] [info] Database opened successfully.
+[2025-03-13 23:59:37.771] [database_logger] [info] Database tables created successfully.
+[2025-03-13 23:59:38.269] [database_logger] [error] SQL prepared statement error during user auth.
+[2025-03-14 00:04:16.267] [database_logger] [info] Database opened successfully.
+[2025-03-14 00:04:16.267] [database_logger] [info] Database tables created successfully.
+[2025-03-14 00:04:16.267] [database_logger] [error] SQL prepared statement error during user auth.
+[2025-03-14 00:21:06.312] [database_logger] [info] Database opened successfully.
+[2025-03-14 00:21:06.312] [database_logger] [info] Database tables created successfully.
+[2025-03-14 00:21:06.312] [database_logger] [error] SQL prepared statement error during user auth: no such column: password_hash
+[2025-03-14 00:22:18.332] [database_logger] [info] Database opened successfully.
+[2025-03-14 00:22:18.332] [database_logger] [info] Database tables created successfully.
+[2025-03-14 15:41:40.812] [database_logger] [info] Database opened successfully.
+[2025-03-14 15:41:40.812] [database_logger] [info] Database tables created successfully.
