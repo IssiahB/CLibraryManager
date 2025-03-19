@@ -16,9 +16,8 @@
 # Dependency files
 *.d
 
-# Build directories
-build/
-bin/
+# Data Storage
+*.db
 
 # IDE specific files
 .vscode/
