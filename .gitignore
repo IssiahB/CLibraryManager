@@ -1,0 +1,39 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Dependency files
+*.d
+
+# Build directories
+build/
+bin/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+*.suo
+*.code-workspace
+
+# Temporary files
+*~
+\#*
+*.swp
+
+# Other
+*.log
