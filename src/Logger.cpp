@@ -31,7 +31,7 @@ void Logger::init()
         spdlog::register_logger(userLogger);
         spdlog::register_logger(systemLogger);
 
-        spdlog::info("Logging initialized successfully.");
+        systemLogger->info("Logging initialized successfully.");
     }
     catch (const spdlog::spdlog_ex &ex)
     {
